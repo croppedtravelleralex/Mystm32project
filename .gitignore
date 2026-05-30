@@ -8,6 +8,7 @@
 *.map
 *.lst
 *.dep
+*.orig
 #keil项目文件
 *.uvhui.*
 *.uvopt*
